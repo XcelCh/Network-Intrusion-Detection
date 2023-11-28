@@ -1,1 +1,1 @@
-network intrusion detection UOW module project
+Network intrusion detection Multi-Class Classification problem UOW module project
